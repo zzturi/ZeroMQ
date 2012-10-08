@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'zeromq' target in the 'zeromq' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif
